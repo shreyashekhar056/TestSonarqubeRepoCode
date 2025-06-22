@@ -1,1 +1,1 @@
-# TestSonarqubeRepoCode
+# Fixed commit author
